@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <opml version="2.0">
+      <head>
+        <title>WeWeRSS 所有订阅源</title>
+      </head>
+      <body>
+        <outline text="华泰证券金融工程" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3899877693.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3899877693.atom"/>
+    <outline text="信达金工与产品研究" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3862646155.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3862646155.atom"/>
+    <outline text="QuantML" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3863007345.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3863007345.atom"/>
+    <outline text="人工智能量化实验室" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3576660523.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3576660523.atom"/>
+    <outline text="申万宏源金工" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3921504606.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3921504606.atom"/>
+    <outline text="广发金融工程研究" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3080140308.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3080140308.atom"/>
+    <outline text="DigitalAlpha" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_2397386499.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_2397386499.atom"/>
+    <outline text="东北金工研究" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3936299512.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3936299512.atom"/>
+    <outline text="Zeta金工研究" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3570668572.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3570668572.atom"/>
+    <outline text="金工研究" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_2399245864.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_2399245864.atom"/>
+    <outline text="华创金工" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3252873628.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3252873628.atom"/>
+    <outline text="招商定量任瞳团队" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3586922156.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3586922156.atom"/>
+    <outline text="长江金工" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3078226334.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3078226334.atom"/>
+    <outline text="大于研究" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3206743117.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3206743117.atom"/>
+    <outline text="金融学前沿论文速递" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3081339473.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3081339473.atom"/>
+    <outline text="" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3271537627.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3271537627.atom"/>
+    <outline text="金融工程与风险管理团队" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3248760505.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3248760505.atom"/>
+    <outline text="鲁明量化全视角" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3265107081.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3265107081.atom"/>
+    <outline text="主动型量化" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3573017134.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3573017134.atom"/>
+    <outline text="因子动物园" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3517646573.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3517646573.atom"/>
+    <outline text="川总写量化" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3220104952.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3220104952.atom"/>
+    <outline text="Python金融量化" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3520950661.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3520950661.atom"/>
+    <outline text="东方金工研究" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3860976361.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3860976361.atom"/>
+    <outline text="YuminQuant" type="rss" xmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3904347525.atom" htmlUrl="http://wewerss.bfbjarbzc8e3e8hq.australiaeast.azurecontainer.io:4000/feeds/MP_WXS_3904347525.atom"/>
+    </body>
+    </opml>
